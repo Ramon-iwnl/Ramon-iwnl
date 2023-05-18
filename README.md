@@ -4,7 +4,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/ramon_iwnl)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ramon_iwnl)
 
-
+https://github.com/anuraghazra/github-readme-stats
 
 ### Tecnologias que eu uso no meu dia
 
